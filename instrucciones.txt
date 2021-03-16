@@ -1,0 +1,2 @@
+para probar una maquina es necesario dejar el archivo de
+extension bin, como data.bin
